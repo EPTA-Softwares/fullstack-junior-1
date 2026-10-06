@@ -18,7 +18,7 @@ Importante: não esperamos necessariamente uma solução perfeita. Queremos ente
 
 🎯 Desafio
 
-Seu objetivo é criar o web app *drivo*, uma plataforma onde você vai montar sua garagem com seus veículos de forma facilitada com Inteligência Artificial.
+Seu objetivo é criar é o web app [*drivo*], uma plataforma onde você vai montar sua garagem com seus veículos de forma facilitada com Inteligência Artificial.
 
 O usuário deve conseguir:
 
@@ -28,7 +28,7 @@ O usuário deve conseguir:
 * Pesquisar um veículo;
 * Criar um novo veículo;
 * Importar um CRLV;
-* Utilizar a API gratuita do GEMINI para realizar o scan e o preenchimento automático dos dados do CRVL;
+* Utilizar a API gratuita do GEMINI para realizar o scan e o preenchimento automático dos dados do CRLV;
 * Editar um veículo;
 * Excluir um veículo;
 * Alterar dados cadastrais;
