@@ -108,7 +108,7 @@ Priorizamos uma solução bem estruturada e funcional em vez de uma grande quant
 
 💡 Uso de IA
 
-Utilize a IA para somente para consulta.
+Utilize a IA somente para consulta.
 
 Caso utilize IA, esperamos que o candidato:
 
